@@ -1,2 +1,3 @@
-<img width="1536" height="1024" alt="ChatGPT Image 7 de mai  de 2026, 15_21_25" src="https://github.com/user-attachments/assets/7d43bfe1-bd1c-4a54-8585-772fed3d675e" />
 # Dashboard-Clientes-Por-Assinatura-de-TV
+
+<img width="1337" height="632" alt="DASHBOARD " src="https://github.com/user-attachments/assets/2ea70113-1083-4286-a72e-1d257a2e9f80" />
